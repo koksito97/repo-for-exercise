@@ -1,5 +1,4 @@
 the repo has changed
-he repo has changed but it failed
-the conflicts have merged 
 and again 
-different
+the repo has changed but it failed
+ Temporary merge branch 2
